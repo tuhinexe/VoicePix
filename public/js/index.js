@@ -15,12 +15,12 @@ responseDiv.style.display = "none"
 
 
 let mediaRecorder;
-let recordedChunks = [];
 
 const getAudioAndReq = async (url,button) =>{
   stopBtn.disabled = false
-
+  
   try {
+    let recordedChunks = [];
     const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
 
     mediaRecorder = new MediaRecorder(stream);
