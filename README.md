@@ -60,3 +60,8 @@ If you'd like to contribute to this project, please follow these guidelines:
 3. Create a pull request and provide a clear description of your changes.
 
 4. Wait for feedback and make any necessary changes.
+
+## Previews :
+
+![image](https://github.com/TuhinBar/VoicePix/assets/85868593/5f8be351-1d94-4369-9218-2c5340facef8)
+
