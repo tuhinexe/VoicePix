@@ -259,7 +259,7 @@ body {
     .imageResp{
         margin-right: auto;
         margin-left: 5px;
-        max-width: 95%;
+        max-width: 90%;
         display: flex;
         align-items: center;
         gap: 0.5rem;
