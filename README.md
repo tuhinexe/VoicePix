@@ -65,5 +65,6 @@ If you'd like to contribute to this project, please follow these guidelines:
 
 ![image](https://github.com/TuhinBar/VoicePix/assets/85868593/5f8be351-1d94-4369-9218-2c5340facef8)
 ![image](https://github.com/TuhinBar/VoicePix/assets/85868593/cd4b08f5-21d5-4344-8ac8-d3628bc3bfc3)
+![image](https://github.com/TuhinBar/VoicePix/assets/85868593/fcfbb4e6-e80c-4a0c-a312-cdc5d16780f7)
 
 
