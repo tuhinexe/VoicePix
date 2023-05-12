@@ -16,7 +16,7 @@ To install and run this application on your local machine, follow these steps:
 2. Install the necessary dependencies by running the following command in the root directory of the project:
 
    ```
-   npm install
+   yarn install
    ```
 
 3. Create a `.env` file in the root directory of the project and add the following environment variables:
@@ -30,7 +30,7 @@ To install and run this application on your local machine, follow these steps:
 4. Start the application by running the following command:
 
    ```
-   npm start
+   yarn start
    ```
 
    This will start the server on port 3000.
@@ -64,4 +64,6 @@ If you'd like to contribute to this project, please follow these guidelines:
 ## Previews :
 
 ![image](https://github.com/TuhinBar/VoicePix/assets/85868593/5f8be351-1d94-4369-9218-2c5340facef8)
+![image](https://github.com/TuhinBar/VoicePix/assets/85868593/cd4b08f5-21d5-4344-8ac8-d3628bc3bfc3)
+
 
