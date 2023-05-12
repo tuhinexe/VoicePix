@@ -93,6 +93,8 @@ imageBtn.addEventListener('click', async (e) =>{
 stopBtn.addEventListener("click", (e) =>{
   e.preventDefault()
   if (mediaRecorder && mediaRecorder.state === 'recording') {
+    responseDiv.style.display = "none"
+        previewBox.style.display = "flex"
         previewDiv.innerHTML = `<img src="./icons/loading.gif" alt="" width="50px" height="50px" style="border-radius: 50%;">
         <p>Grab your snacks! Fetching Response...</p>`
         mediaRecorder.stop();
